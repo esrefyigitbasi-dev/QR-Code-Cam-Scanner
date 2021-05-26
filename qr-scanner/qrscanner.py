@@ -37,7 +37,7 @@ def main():
             cv2.putText(frame, text, (x, y - 10),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 2)
 
-        cv2.imshow("Barcode Scanner", frame)
+        cv2.imshow("QR Scanner", frame)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
