@@ -1,5 +1,5 @@
 # QR SCANNER
-A simple qr code reader Python script.
+A simple qr code and barcode reader Python script.
 
 # INSTALL FOR LINUX OR MAC
 ```
