@@ -1,16 +1,20 @@
 # QR SCANNER
 A simple qr code reader Python script.
 
-# INSTALL FOR LINUX
+# INSTALL FOR LINUX OR MAC
 ```
 git clone https://github.com/esrefyigitbasi-dev/QR-Code-Cam-Scanner.git
 ```
 ```
 cd QR-Code-Cam-Scanner
 ```
-if there is not pipenv, run this command.
+if there is not pipenv, run this command for linux
 ```
 sudo apt install pipenv
+```
+if there is not pipenv, run this command for mac
+```
+brew install pipenv
 ```
 if there is, continue here
 ```
